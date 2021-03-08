@@ -8,7 +8,6 @@
 - [DB 엔진](#db-엔진)
 - [트랜잭션 ACID](#트랜잭션-acid)
 - [트랜잭션 Isolation Level](#트랜잭션-isolation-level)
-- [기본 쿼리](#기본-쿼리)
 - [정규화](#정규화)
 - [다양한 Join쿼리](#다양한-join쿼리)
 - [SQL vs NoSQL](#sql-vs-nosql)
@@ -31,7 +30,7 @@
 
 ## 커넥션 풀
 * WAS에서 처리
-
+* https://github.com/iyoungman/tech-interview-master/blob/master/db/connection%20pool.md
 
 ***  
 
@@ -40,7 +39,7 @@
 ```
 
 ## 인덱스
-
+* https://github.com/iyoungman/tech-interview-master/blob/master/db/index.md
 
 ***
 
